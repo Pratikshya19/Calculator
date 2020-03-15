@@ -6,7 +6,21 @@ class Button {
             <div className="button">
             <button>1</button>
             </div>
-            
+            <div className="button">
+            <button>1</button>
+            </div>
+            <div className="button">
+            <button>1</button>
+            </div>
+            <div className="button">
+            <button>1</button>
+            </div>
+            <div className="button">
+            <button>1</button>
+            </div>
+            <div className="button">
+            <button>1</button>
+            </div>
         </div>)
     }
 }
