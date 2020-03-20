@@ -61,9 +61,7 @@ equals = () => {
      input: parseInt(this.state.previousNumber) / parseInt(this.state.currentNumber)
    })
   }
-
 }
-
 subtract = () => {
   this.state.previousNumber = this.state.input;
     this.setState({
