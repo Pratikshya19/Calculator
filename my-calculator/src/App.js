@@ -3,7 +3,6 @@ import './App.css';
 import Button from "./components/Button"
 import Input from "./components/Input"
 import ClearButton from "./components/ClearButton"
-
 class App extends React.Component { 
   constructor(props){
     super(props)
@@ -83,7 +82,6 @@ divide = () => {
     })
     this.state.operator = "divide";
 }
-
 
   render(){
     return(

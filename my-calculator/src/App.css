@@ -9,7 +9,6 @@
 .cal-wrapper {
    width: 400px;
 height: 600px;
-/* display: flex; */
 }
 .row {
   display: flex;
